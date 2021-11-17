@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://api-music.yugle.fun/:match*"
+      "destination": "https://netease-cloud-music-api-three-umber.vercel.app/:match*"
     }
   ]
 }
