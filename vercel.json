@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://netease-cloud-music-api-three-umber.vercel.app/:match*"
+      "destination": "https://netease-cloud-music-api-10lu80kwv-moji111.vercel.app/:match*"
     }
   ]
 }
